@@ -25,5 +25,5 @@ exercise_01.c:8:1: warning: control reaches end of non-void function [-Wreturn-t
 ```
 
 
-> We can fix this error by adding `return 0;` to the end of the main function.
+** We can fix this error by adding `return 0;` to the end of the main function. **
 
