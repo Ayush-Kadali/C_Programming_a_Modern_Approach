@@ -20,8 +20,8 @@ int main(void)
 }
 ```
 ### (a) 
-    Directive is the line with include that is `#include <stdio.h>`
-    Statements are all the lines inside the main function.
+Directive is the line with include that is `#include <stdio.h>`
+Statements are all the lines inside the main function.
 
 ### (b) Output of the follown program is
     
