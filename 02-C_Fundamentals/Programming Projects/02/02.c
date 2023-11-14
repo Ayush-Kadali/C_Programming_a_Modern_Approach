@@ -3,13 +3,13 @@
 
 
 #include <stdio.h>
-
+#define PI 3.14
 int main(void)
 {
     int radius = 10;
     float volume;
 
-    volume = 4.0f/3.0f * 3.14 * radius * radius * radius; // Volume of sphere = 4/3 * pie * r^3
+    volume = 4.0f/3.0f * PI * radius * radius * radius; // Volume of sphere = 4/3 * pie * r^3
 
     printf("Volume of the spehere is : %.2f\n", volume);
     
