@@ -1,4 +1,4 @@
-# Solution to Programming Project 01
+# Programming Project 01
 
 ## Question 
 
