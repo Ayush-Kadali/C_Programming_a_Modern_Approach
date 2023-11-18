@@ -8,7 +8,7 @@
 
 ## Solution
 
-```
+```c
 #include <stdio.h>                                       //Directive
 
 int main(void)
