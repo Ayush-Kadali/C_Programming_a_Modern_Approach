@@ -6,7 +6,7 @@ Write a program that declares several int and float variables- without initializ
 
 ## Solution
 
-```
+```c
 #include <stdio.h>
 
 int main(void)
@@ -26,7 +26,7 @@ This is a program declares four integer and four floats and displays their value
 
 This is the output I got when compiled using gcc.
 
-```
+```shell
 integers : 0,   0,  1675548480,  32551 
 float : 0.000000,   8274904948131294609408.000000,   0.000000,   0.000000.
 ```
