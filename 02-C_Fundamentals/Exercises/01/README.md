@@ -16,7 +16,7 @@ WE can use the following gcc command to get errors as well as compile with a spe
 ```gcc -O -Wall -pedantic -ansi -std=c[version_number] -o [output_file] [input_file] ```
 
 below is the warning that i got
-```
+```shell
 ~/Desktop/learn/C_Programming_a_Modern_Approach/02-C_Fundamentals/01 > gcc -O -Wall -pedantic -ansi -std=c89 -o exercise_01_with_c89 exercise_01.c
 exercise_01.c: In function ‘main’:
 exercise_01.c:8:1: warning: control reaches end of non-void function [-Wreturn-type]
