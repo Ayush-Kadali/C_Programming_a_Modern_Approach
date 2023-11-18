@@ -9,7 +9,7 @@ In `dweight.c` program (Section 2.4), which spaces are essential.
 The program in dweight.c is 
 
 
-```
+```c
 #include <stdio.h>
 
 int main (void)
