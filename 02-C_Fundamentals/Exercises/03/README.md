@@ -5,7 +5,7 @@ Condense the dweight.c program by (1) replacing the assignments to height, lengt
 
 ## Solution
 
-```
+```c
 #include <stdio.h>
 
 int main (void)
